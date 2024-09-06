@@ -1,6 +1,6 @@
 # Banking-System-C
 A person can have one or more accounts at a bank. Each person is identified by their name and surname.
-Every account has an INAN, an owner, currency and amount.
+Every account has an IBAN, an owner, currency and amount.
 A person with an account can:
       -edit the account, 
       -delete the account,
